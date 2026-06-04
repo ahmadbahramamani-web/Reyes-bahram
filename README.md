@@ -1,7 +1,7 @@
 <h1 align="center">👑 AMANI SAHIB </h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/6H0FXSa.jpeg" alt="AMANI SAHIB Banner" width="350" />
+  <img src="https://i.postimg.cc/tgBL6rJF/file-000000007f24720893c13a6c97b9d6fd.png" alt="AMANI SAHIB Banner" width="350" />
 </p>
 
 <p align="center">
