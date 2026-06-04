@@ -1,19 +1,19 @@
-<h1 align="center">👑 QUEEN RIAM </h1>
+<h1 align="center">👑 AMANI SAHIB </h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/6H0FXSa.jpeg" alt="Queen Riam Banner" width="350" />
+  <img src="https://i.imgur.com/6H0FXSa.jpeg" alt="AMANI SAHIB Banner" width="350" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Dev-Kango" title="DevKango"><img src="https://img.shields.io/badge/DevKango-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://wa.me/233509977126" title="Contact on WhatsApp"><img src="https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://github.com/Dev-Kango" title="ahmadbahramamani-web"><img src="https://img.shields.io/badge/ahmadbahramamani-web-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://wa.me/93788441398" title="Contact on WhatsApp"><img src="https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Dev-Kango/Queen-Riam"><img src="https://img.shields.io/github/stars/Dev-Kango/Queen-Riam?color=FFD700&style=flat-square" alt="Stars" /></a>
-  <a href="https://github.com/Dev-Kango/Queen-Riam/network/members"><img src="https://img.shields.io/github/forks/Dev-Kango/Queen-Riam?color=00BFFF&style=flat-square" alt="Forks" /></a>
-  <a href="https://github.com/Dev-Kango/Queen-Riam/watchers"><img src="https://img.shields.io/github/watchers/Dev-Kango/Queen-Riam?label=Watchers&color=orange&style=flat-square" alt="Watchers" /></a>
-  <a href="https://github.com/Dev-Kango/Queen-Riam"><img src="https://img.shields.io/github/repo-size/Dev-Kango/Queen-Riam?style=flat-square&color=green" alt="Repo Size" /></a>
+  <a href="https://github.com/ahmadbahramamani-web/Reyes-bahram"><img src="https://img.shields.io/github/stars/ahmadbahramamani-web/Reyes-bahram?color=FFD700&style=flat-square" alt="Stars" /></a>
+  <a href="https://github.com/ahmadbahramamani-web/Reyes-bahram/network/members"><img src="https://img.shields.io/github/forks/ahmadbahramamani-web/Reyes-bahram?color=00BFFF&style=flat-square" alt="Forks" /></a>
+  <a href="https://github.com/ahmadbahramamani-web/Reyes-bahram/watchers"><img src="https://img.shields.io/github/watchers/ahmadbahramamani-web/Reyes-bahram?label=Watchers&color=orange&style=flat-square" alt="Watchers" /></a>
+  <a href="https://github.com/ahmadbahramamani-web/Reyes-bahram"><img src="https://img.shields.io/github/repo-size/ahmadbahramamani-web/Reyes-bahram?style=flat-square&color=green" alt="Repo Size" /></a>
   <img src="https://komarev.com/ghpvc/?username=Dev-Kango&label=Profile+Views&color=blue&style=flat-square" alt="Profile View Counter"/>
 </p>
 
@@ -21,7 +21,7 @@
 
 ## 📝 About
 
-**QUEEN RIAM** is a modern WhatsApp multi-device bot built with Node.js, Baileys, and Express. It is designed for ease of use, extensibility, and robust automation for group and personal chats. Please use this tool responsibly and for educational purposes only.
+**AMANISAHIB** is a modern WhatsApp multi-device bot built with Node.js, Baileys, and Express. It is designed for ease of use, extensibility, and robust automation for group and personal chats. Please use this tool responsibly and for educational purposes only.
 
 ---
 
@@ -42,10 +42,10 @@ Generate your Session ID to connect your WhatsApp account:
 
 ## 🚀 Deploy Instantly
 
-Deploy QUEEN RIAM with one click on any platform below:
+Deploy AMANI SAHIB with one click on any platform below:
 
 <p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/Dev-Kango/Queen-Riam" target="_blank">
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/ahmadbahramamani-web/Reyes-bahram" target="_blank">
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Deploy on Heroku"/>
   </a>
   <br />
@@ -57,7 +57,7 @@ Deploy QUEEN RIAM with one click on any platform below:
     <img src="https://img.shields.io/badge/Render-00ffaa?style=for-the-badge&logo=render&logoColor=white" alt="Deploy on Render"/>
   </a>
   <br />
-  <a href="https://app.koyeb.com/services/deploy?type=git&repository=Dev-Kango/Queen-Riam-" target="_blank">
+  <a href="https://app.koyeb.com/services/deploy?type=git&repository=ahmadbahramamani-web/Reyes-bahram-" target="_blank">
     <img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white" alt="Deploy on Koyeb"/>
   </a>
   <br />
@@ -95,11 +95,11 @@ Deploy QUEEN RIAM with one click on any platform below:
 
 ## ❤️ Credits
 
-- [DevKango](https://github.com/Dev-Kango)
-- [OfficialKango](https://github.com/OfficialKango)
+- [ahmadbahramamani-web](https://github.com/ahmadbahramamani-web)
+- [Officialahmadbahramamani-web](https://github.com/Officialahmadbahramamani-web)
 - [Baileys](https://github.com/WhiskeySockets)
 
-<p align="center">🇬🇭 Made with ❤️ in Ghana By Hector Manuel </p>
+<p align="center">🇦🇫 Made with ❤️ in Afghanistan By AMANI SAHIB </p>
 
 ---
 
@@ -108,12 +108,12 @@ Deploy QUEEN RIAM with one click on any platform below:
 - **Educational use only.**
 - Do **not** use this bot for spam or any illegal activities.
 
-> Powered by Hector Manuel ✨
+> Powered by AMANI SAHIB ✨
 
 ---
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F94E8B&lines=WELCOME+TO+QUEEN+RIAM+MD;MADE+BY+HECTOR+MANUEL;THANKS+FOR+VISITING+MY+REPO" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F94E8B&lines=WELCOME+TO+REYES+BAHRAM+MD;MADE+BY+AMANI+SAHIB;THANKS+FOR+VISITING+MY+REPO" alt="Typing SVG" />
   </a>
 </p>
