@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Dev-Kango" title="ahmadbahramamani-web"><img src="https://img.shields.io/badge/ahmadbahramamani-web-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/ahmadbahramamani-web" title="ahmadbahramamani-web"><img src="https://img.shields.io/badge/ahmadbahramamani-web-181717?style=for-the-badge&logo=github" /></a>
   <a href="https://wa.me/93788441398" title="Contact on WhatsApp"><img src="https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
@@ -30,10 +30,10 @@
 Generate your Session ID to connect your WhatsApp account:
 
 <p align="center">
-  <a href="https://pair.officialkango.space/" target="_blank">
+  <a href="https://pair.officialahmadbahramamani-web.space/" target="_blank">
     <img alt="Pair Site 1" src="https://img.shields.io/badge/Pair%20Site%201-233044?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://pair.officialkango.space/" target="_blank">
+  <a href="https://pair.officialahmadbahramamani-web.space/" target="_blank">
     <img alt="Pair Site 2" src="https://img.shields.io/badge/Pair%20Site%202-A10000?style=for-the-badge&logo=heroku&logoColor=white"/>
   </a>
 </p>
@@ -53,7 +53,7 @@ Deploy AMANI SAHIB with one click on any platform below:
     <img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white" alt="Deploy on Railway"/>
   </a>
   <br />
-  <a href="https://dashboard.render.com/web/new" target="_blank">
+  <a href="https://Whatsapp.com/web/new" target="_blank">
     <img src="https://img.shields.io/badge/Render-00ffaa?style=for-the-badge&logo=render&logoColor=white" alt="Deploy on Render"/>
   </a>
   <br />
