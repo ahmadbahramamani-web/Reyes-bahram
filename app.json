@@ -1,11 +1,11 @@
 {
-  "name": "Queen Riam WhatsApp Bot",
+  "name": "REYES BAHRAM WhatsApp Bot",
   "description": "A multifunctional WhatsApp bot built with Baileys.",
   "repository": "",
   "keywords": ["whatsapp", "bot", "baileys"],
   "env": {
     "SESSION_ID": {
-      "description": "Your WhatsApp session ID. Format: RIAM~<base64> for base64 sessions or Queen~<megaFileId> for MEGA.nz sessions.",
+      "description": "Your WhatsApp session ID. Format: REYES~<base64> for base64 sessions or BAHRAM~<megaFileId> for MEGA.nz sessions.",
       "required": true
     }
   },
